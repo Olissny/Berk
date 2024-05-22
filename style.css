@@ -1,0 +1,20 @@
+.division{
+    align: center;
+    width: 50%;
+    height: auto;
+    float:left;
+    border: 10px;   
+}
+  
+ul >li{
+    margin: 25px;
+}
+
+.logo{
+    margin: 0;
+}
+
+#forafree{
+    margin: 0;
+}
+
